@@ -1,0 +1,872 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "email": "test@gmail.com",
+      "password": "1q2w3e4r"
+    },
+    {
+      "id": 2,
+      "email": "a@test.com",
+      "password": "1q2w3e4r"
+    },
+    {
+      "id": 3,
+      "email": "four@test.com",
+      "password": "1q2w3e4r"
+    },
+    {
+      "id": 4,
+      "email": "sigup@gmail.com",
+      "password": "1q2w3e4r"
+    }
+  ],
+  "Game": [
+    {
+      "id": 1,
+      "title": "The Legend of Zelda™: Tears of the Kingdom",
+      "type": "Adventure",
+      "release": "May 12, 2023",
+      "price": 69.99,
+      "detail": "An epic adventure awaits in the Legend of Zelda: Tears of the Kingdom game, only on the Nintendo Switch system.In this sequel to the Legend of Zelda: Breath of the Wild game, you’ll decide your own path through the sprawling landscapes of Hyrule and the mysterious islands floating in the vast skies above. Can you harness the power of Link’s new abilities to fight back against the malevolent forces that threaten the kingdom?",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000063714/276a412988e07c4d55a2996c6d38abb408b464413b2dfeb44d2aa460b9f622e1"
+    },
+    {
+      "id": 2,
+      "title": "Monster Hunter Stories 2: Wings of Ruin",
+      "type": "Adventure",
+      "release": "July 9, 2021",
+      "price": 39.99,
+      "detail": "A new adventure awaits you in this second installment of the turn-based RPG series set in the world of Monster Hunter! Become a Rider and form bonds with friendly monsters known as Monsties to fight alongside them as you take part in an epic story.You play as the grandchild of Red, a legendary Rider. The story begins with a fateful encounter with Ena, a Wyverian girl who has been entrusted with an egg with the potential to hatch into a legendary Rathalos which could wreak havoc if awakened to its destructive power.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000028503/39d22dad288b3e3dd75f63b7f757202d25fc10bcdd527192cbd19bcbbff7da64"
+    },
+    {
+      "id": 3,
+      "title": "Metroid Prime™ Remastered",
+      "type": "Adventure",
+      "release": "February 8, 2023",
+      "price": 39.99,
+      "detail": "Intergalactic bounty hunter Samus Aran receives a distress signal from a wrecked frigate in orbit around planet Tallon IV. Upon investigation, the frigate reveals itself to be a Space Pirate research vessel home to terrifying genetic experiments using the mysterious Phazon substance. There, Samus encounters her nemesis, Meta Ridley, whom she pursues to the surface of Tallon IV. It’s up to her alone to explore the planet’s interconnected regions, investigate its dark secrets, and end the intergalactic threat posed by Phazon.Experience this critically acclaimed first-person adventure like never before with remastered visuals, audio, controls, and more.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000063709/32b85837beea0eee31220a59e247219662de4011f7a8c18fce61cf99a4933eb7"
+    },
+    {
+      "id": 4,
+      "title": "Pokémon™ Scarlet",
+      "type": "Adventure",
+      "release": "November 18, 2022",
+      "price": 59.99,
+      "detail": "Catch, battle, and train Pokémon in the Paldea Region, a vast land filled with lakes, towering peaks, wastelands, small towns, and sprawling cities. Explore a wide-open world at your own pace and traverse land, water, and air by riding on a form-shifting Legendary Pokémon—Koraidon in the Pokémon Scarlet game and Miraidon in the Pokémon Violet game. Choose either Sprigatito, Fuecoco, or Quaxly, to be your first partner Pokémon before setting off on your journey through Paldea.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000053966/849c234de8df7265201d26d9d72f88eed3f32438d3dca12fc135beb4c3befc85"
+    },
+    {
+      "id": 5,
+      "title": "The Legend of Zelda™: Breath of the Wild",
+      "type": "Adventure",
+      "release": "March 3, 2017",
+      "price": 59.99,
+      "detail": "Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58"
+    },
+    {
+      "id": 6,
+      "title": "AnimalCrossing",
+      "type": "Simulation",
+      "release": "March 20, 2020",
+      "price": 59.99,
+      "detail": "Escape to a deserted island and create your own paradise as you explore, create, and customize in the Animal Crossing: New Horizons game. Your island getaway has a wealth of natural resources that can be used to craft everything from tools to creature comforts. You can hunt down insects at the crack of dawn, decorate your paradise throughout the day, or enjoy sunset on the beach while fishing in the ocean. The time of day and season match real life, so each day on your island is a chance to check in and find new surprises all year round.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a"
+    },
+    {
+      "id": 7,
+      "title": "Fire Emblem Warriors: Three Hopes",
+      "type": "Simulation",
+      "release": "June 24, 2022",
+      "price": 59.99,
+      "detail": "Step into the shoes of Shez as they join Edelgard, Dimitri, Claude, and other Fire Emblem™: Three Houses characters and fight for the future of Fódlan. Align with a leader to build and command an army in strategic 1-vs.-1,000-style battles. The house you choose will bring you through one of three compelling stories, each with a different outcome.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000050778/fbcfc3d8329a53a3922652262d1eed43f81769867716d27047323835ec796603"
+    },
+    {
+      "id": 8,
+      "title": "No Man's Sky",
+      "type": "Simulation",
+      "release": "October 7, 2022",
+      "price": 59.99,
+      "detail": "Inspired by the adventure and imagination that we love from classic science-fiction, No Man's Sky presents you with a galaxy to explore, filled with unique planets and lifeforms, and constant danger and action.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_700/ncom/software/switch/70010000044642/52d64815f9da5573086a505f9e1e52ecab840d3569b1560de4ae7d14574e7811"
+    },
+    {
+      "id": 9,
+      "title": "Phoenix Wright: Ace Attorney Trilogy",
+      "type": "Simulation",
+      "release": "April 9, 2019",
+      "price": 29.99,
+      "detail": "The classic courtroom adventure series that has sold over 6.7 million copies worldwide is finally here. Become Phoenix Wright and experience the thrill of battle as you fight to save your innocent clients in a court of law. Play all 14 episodes, spanning the first three games, in one gorgeous collection. Solve the intriguing mysteries behind each case and witness the final truth for yourself!",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000015846/a4f21c4638201d9b2037c0e3ead4e90a2f64b6f7af5a6909316daad44b3224b7"
+    },
+    {
+      "id": 10,
+      "title": "Stardew Valley",
+      "type": "Simulation",
+      "release": "October 5, 2017",
+      "price": 14.99,
+      "detail": "You’ve inherited your grandfather’s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won’t be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town’s most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness!",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/en_US/games/switch/s/stardew-valley-switch/hero"
+    },
+    {
+      "id": 11,
+      "title": "Nintendo Switch™ Sports",
+      "type": "Sports",
+      "release": "April 29, 2022",
+      "price": 39.99,
+      "detail": "Get moving* with Golf, Soccer, Volleyball, Bowling, Tennis, Badminton, and Chambara (swordplay) using Joy-Con™ controllers! Controls are intuitive, so you can hit the court (or lanes, or field, or arena) and get started. With controlled motions, you can curve your bowling ball, add spin to a tennis shot, or even use a Joy-Con with the Leg Strap accessory to kick the ball in Soccer. Family and friends can join in on the fun on the same system** or online***.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000049931/cf8adb2c74522b91412eb40b9d77216e8f8436fc4e63731e0dc262e6666930eb"
+    },
+    {
+      "id": 12,
+      "title": "EA SPORTS FIFA 23 Nintendo Switch™ Legacy Edition",
+      "type": "Sports",
+      "release": "September 30, 2022",
+      "price": 39.99,
+      "detail": "FIFA 23 Legacy Edition features the latest kits, clubs, and squads from some of the top football leagues of the world.It will also feature the addition of top women’s club teams and some of the world’s most famous stadiums, including brand new ones, an updated visual identity and a refreshed broadcast overlay package.FIFA 23 Legacy Edition will feature the same Gameplay features and modes from FIFA 22 Legacy Edition without any new development or significant enhancements.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000047794/40f9e2f6d344d2607d4be72c6c4ebd3c18717ff87a56d6bbc303c42e58dd570d"
+    },
+    {
+      "id": 13,
+      "title": "Fitness Boxing 2: Rhythm & Exercise",
+      "type": "Sports",
+      "release": "December 4, 2020",
+      "price": 49.99,
+      "detail": "Jab, uppercut, dodge, and more to catchy pop tunes in this rhythmic boxing game! Dodges, ducks and step moves turn fitness boxing into a full-body workout. Pass a Joy-Con™ controller to an exercise buddy and box to the beat together.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000035030/2a87f28902b884794ee4fcd7dc332be749c311435e0f3e9bcba23c38cc6cb530"
+    },
+    {
+      "id": 14,
+      "title": "Mario Strikers™: Battle League",
+      "type": "Sports",
+      "release": "June 10, 2022",
+      "price": 59.99,
+      "detail": "Introducing Strike, a 5-on-5, soccer-like sport with no rules—do whatever it takes to win! Get gritty and try to score the most goals by tackling enemies, using items, and pulling off score-boosting Hyper Strikes.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000049936/c280b6843af262757f041d2aa3543992ec076b97545abea4dbadda797d9056fc"
+    },
+    {
+      "id": 15,
+      "title": "Mario Golf™: Super Rush",
+      "type": "Sports",
+      "release": "June 25, 2021",
+      "price": 59.99,
+      "detail": "Hit the green with up to four players locally* or online** and golf with friends from the Super Mario™ series like Mario, Peach, Yoshi, and more! Modes range from Standard Golf to the energetic Speed Golf and an exciting Golf Adventure. Simple motion or button controls make it easy for both new players and seasoned pros to drive and putt.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000038622/af5246b2f01dee8111a70bcb3f556e65a492801d6677d0ab0f17b566a7b0285b"
+    },
+    {
+      "id": 16,
+      "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+      "type": "Fighting",
+      "release": "August 30, 2022",
+      "price": 39.99,
+      "detail": "Teenage Mutant Ninja Turtles: The Cowabunga Collection assembles thirteen classic TMNT games by Konami in one incredible package. This collection provides a unique opportunity for gamers to experience these immensely popular and very influential games on Nintendo Switch™ and includes a fantastic set of new quality of life features.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000042351/875a656d7caf7c1a1dec74522943fcf06eb700fa8ccc94cd36b4c3c192f29109"
+    },
+    {
+      "id": 17,
+      "title": "Super Smash Bros.™ Ultimate",
+      "type": "Fighting",
+      "release": "December 7, 2018",
+      "price": 59.99,
+      "detail": "Gaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more!",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000012332/ac4d1fc9824876ce756406f0525d50c57ded4b2a666f6dfe40a6ac5c3563fad9"
+    },
+    {
+      "id": 18,
+      "title": "Hyrule Warriors: Age of Calamity",
+      "type": "Fighting",
+      "release": "November 20, 2020",
+      "price": 59.99,
+      "detail": "Join the struggle that brought Hyrule to its knees. Learn more about Zelda, the four Champions, the King of Hyrule and more through dramatic cutscenes as they try to save the kingdom from Calamity. The Hyrule Warriors: Age of Calamity game is the only way to see firsthand what happened 100 years ago.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000034760/1123ea0e4079a8aaa32187dcaa94b8ef407e028f9b6b8d5ff944bd750f1ce347"
+    },
+    {
+      "id": 19,
+      "title": "SD GUNDAM BATTLE ALLIANCE",
+      "type": "Fighting",
+      "release": "August 25, 2022",
+      "price": 59.99,
+      "detail": "In SD Gundam Battle Alliance, Mobile Suits and characters from across Mobile Suit Gundam history take center stage in this all-new action RPG.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000050879/20a26ae5fad3abbb6469722ff2d58feb74e08bf86f2ec6bf9843cbc61d56c595"
+    },
+    {
+      "id": 20,
+      "title": "Scott Pilgrim vs. The World™: The Game – Complete Edition",
+      "type": "Fighting",
+      "release": "January 14, 2021",
+      "price": 14.99,
+      "detail": "Complete Edition includes the remaster of Scott Pilgrim vs. The World™: The Game and its original DLCs: the Knives Chau and Wallace Wells Add-On Packs. Rediscover the beloved 2D arcade-style beat 'em up inspired by the iconic comic book series and movie, Scott Pilgrim vs. The World.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000030150/4be8b51e192a35e20e9dc730f4a3ca8382dd1895c8ad2e8709246933e65eb8ac"
+    },
+    {
+      "id": 21,
+      "title": "Splatoon™ 3",
+      "type": "Multiplayer",
+      "release": "September 9, 2022",
+      "price": 59.99,
+      "detail": "Enter 4-on-4* ink-slinging battles in this colorful action shooter packed with style and attitude. As a squid-like Inkling, quickly cover your surroundings (and opponents) in ink with wild weaponry and swim through your own color to sneak and splat. Dive into the fresh fun with family and friends and make waves as a team. Get splatted by an opponent? No sweat! The goal in Turf War is to cover the most ground, so respawn and jump back into the inky action.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000046395/94a4095cda06c4d85c637d1af451979f9933302b6b17174d97c45de7a68584a2"
+    },
+    {
+      "id": 22,
+      "title": "Mario Kart™ 8 Deluxe",
+      "type": "Multiplayer",
+      "release": "April 28, 2017",
+      "price": 59.99,
+      "detail": "Burn rubber across Mushroom Kingdom raceways—underwater, in the sky, upside-down in zero-g, and past the finish—for the win! Get revved up for local multiplayer*, online** in-game tournaments, a revamped battle mode, and more!",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453"
+    },
+    {
+      "id": 23,
+      "title": "Mario Party™ Superstars",
+      "type": "Multiplayer",
+      "release": "October 29, 2021",
+      "price": 59.99,
+      "detail": "Roll your dice and race to get the most stars (and sabotage your opponents) on 5 game boards. Each board is filled with treats and tricks—plant flowers (and Piranha Plants) on the delectable Peach’s Birthday Cake board or go intergalactic on the Space Land board. With minigames, star-stealing ghosts, and the troublemaking Bowser, you can turn the tables on your friends and family in an instant. Want to play with far-off friends and family? All modes can be played online*!",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304"
+    },
+    {
+      "id": 24,
+      "title": "DARK SOULS™: REMASTERED",
+      "type": "Multiplayer",
+      "release": "October 19, 2018",
+      "price": 39.99,
+      "detail": "Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning detail. DARK SOULS: REMASTERED includes the main game plus the Artorias of the Abyss DLC. This marks the franchise’s debut on a Nintendo platform, and for the first time ever can be played on-the-go with Nintendo Switch™.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000008122/453d17f26995df6bd67d698c90ba2fd27157a61875e1a9730545da23474c6aaf"
+    },
+    {
+      "id": 25,
+      "title": "Plants vs. Zombies: Battle for Neighborville™ Complete Edition",
+      "type": "Multiplayer",
+      "release": "March 19, 2021",
+      "price": 39.99,
+      "detail": "Now on Nintendo Switch™, tackle hilarious missions and defeat epic bosses in the Weirding Woods, Mount Steep, and Neighborville Town Center to collect medals and unlock outrageous outfits. Party with up to three friends and goof around in Giddy Park or dive into some 8v8 multiplayer in Turf Takeover, vanquishing opponents, blasting gnome bombs, bouncing on pink ooze – it’s the most fun you’ll have since sliced bread.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/en_US/games/switch/p/plants-vs-zombies-battle-for-neighborville-complete-edition-switch/hero"
+    },
+    {
+      "id": 26,
+      "title": "Fire Emblem™ Engage",
+      "type": "Role-Playing",
+      "release": "January 20, 2023",
+      "price": 59.99,
+      "detail": "In a war against the Fell Dragon, four kingdoms worked together with heroes from other worlds to seal away this great evil. One-thousand years later, this seal has weakened and the Fell Dragon is about to reawaken. As a Divine Dragon, use rich strategies and robust customization to meet your destiny—to collect 12 Emblem Rings and bring peace back to the Continent of Elyos.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000058802/88b8db494399e659522af36331b7f588439bc4312af5c0ee57035c063651ab4a"
+    },
+    {
+      "id": 27,
+      "title": "Super Mario RPG™",
+      "type": "Role-Playing",
+      "release": "November 17, 2023",
+      "price": 59.99,
+      "detail": "Team up with an oddball group of heroes to save Star Road and stop the troublemaking Smithy Gang. This colorful RPG has updated graphics and cinematics that add even more charm to the unexpected alliance between Mario, Bowser, Peach, and original characters Mallow and Geno. Enter (or revisit) this world of eccentric allies and offbeat enemies in an RPG for everyone.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000068683/fe4afe940b0e707798332e86f0af56cdbde48da59dc37cdfb8d59febb88ac72a"
+    },
+    {
+      "id": 28,
+      "title": "Pokémon™ Legends: Arceus",
+      "type": "Role-Playing",
+      "release": "January 28, 2022",
+      "price": 59.99,
+      "detail": "Get ready for a new kind of grand, Pokémon adventure in Pokémon™ Legends: Arceus, a new game from Game Freak that blends action and exploration with the RPG roots of the Pokémon series.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000039945/dcb496d7cf954c7eb51ab2e5d0c27918fb7f055e50f4e902135bd4a70a44b491"
+    },
+    {
+      "id": 29,
+      "title": "DRAGON QUEST BUILDERS™ 2",
+      "type": "Role-Playing",
+      "release": "July 12, 2019",
+      "price": 49.99,
+      "detail": "To stop the worshippers of an ancient evil, you must join forces with the mysterious Malroth and build a ravaged world into the realm of your dreams. In this RPG adventure, you’ll explore huge islands, gather and craft with materials, design towns, level them up, and defend them from monsters and bosses alongside townspeople. As you progress, you’ll unearth crafting and building recipes. Dash, glide, explore underwater, fast travel, and play in optional first-person perspective as you try to find them all. In the Isle of Awakening, you and up to three other Builders can explore together in local wireless*; or play online** together too.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000009167/aa76ed4ae6eed8a8160643e1ff1b9f964468270b9ed6a26fdae8bb4f91576ba1"
+    },
+    {
+      "id": 30,
+      "title": "Xenoblade Chronicles™ 3",
+      "type": "Role-Playing",
+      "release": "July 29, 2022",
+      "price": 59.99,
+      "detail": "Join Noah and Mio, members of the two opposing nations of Keves and Agnus, on a heartfelt journey through a warring world with a dark secret. Traverse massive, fantastical landscapes and master seamless real-time RPG combat as you expose the true enemy pulling the strings.",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39"
+    }
+  ],
+  "Cart": [
+    {
+      "title": "The Legend of Zelda™: Tears of the Kingdom",
+      "type": "Adventure",
+      "release": "May 12, 2023",
+      "price": 69.99,
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000063714/276a412988e07c4d55a2996c6d38abb408b464413b2dfeb44d2aa460b9f622e1",
+      "total": 3,
+      "id": 1
+    },
+    {
+      "title": "Metroid Prime™ Remastered",
+      "type": "Adventure",
+      "release": "February 8, 2023",
+      "price": 39.99,
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000063709/32b85837beea0eee31220a59e247219662de4011f7a8c18fce61cf99a4933eb7",
+      "total": 2,
+      "id": 2
+    },
+    {
+      "title": "Stardew Valley",
+      "type": "Simulation",
+      "price": 14.99,
+      "release": "October 5, 2017",
+      "picture": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/en_US/games/switch/s/stardew-valley-switch/hero",
+      "total": 1,
+      "id": 3
+    }
+  ],
+  "Receipt": [
+    {
+      "Time": "2023-09-09 01:16:14.404839",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Metroid Prime™ Remastered",
+          "type": "Adventure",
+          "release": "February 8, 2023",
+          "price": 39.99,
+          "total": 1
+        },
+        {
+          "title": "Metroid Prime™ Remastered",
+          "type": "Adventure",
+          "release": "February 8, 2023",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 79.98,
+      "id": 1
+    },
+    {
+      "Time": "2023-09-09 02:05:40.143986",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Monster Hunter Stories 2: Wings of Ruin",
+          "type": "Adventure",
+          "release": "July 9, 2021",
+          "price": 39.99,
+          "total": 1
+        },
+        {
+          "title": "The Legend of Zelda™: Breath of the Wild",
+          "type": "Adventure",
+          "release": "March 3, 2017",
+          "price": 59.99,
+          "total": 1
+        }
+      ],
+      "total": 99.98,
+      "id": 2
+    },
+    {
+      "Time": "2023-09-09 17:05:24.090278",
+      "userId": 1,
+      "game": [
+        {
+          "title": "DRAGON QUEST BUILDERS™ 2",
+          "type": "Role-Playing",
+          "release": "July 12, 2019",
+          "price": 49.99,
+          "total": 1
+        },
+        {
+          "title": "EA SPORTS FIFA 23 Nintendo Switch™ Legacy Edition",
+          "type": "Sports",
+          "release": "September 30, 2022",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 89.98,
+      "id": 3
+    },
+    {
+      "Time": "2023-09-09 17:05:38.616174",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Metroid Prime™ Remastered",
+          "type": "Adventure",
+          "release": "February 8, 2023",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 39.99,
+      "id": 4
+    },
+    {
+      "Time": "2023-09-09 17:24:30.838701",
+      "userId": 1,
+      "game": [
+        {
+          "title": "The Legend of Zelda™: Tears of the Kingdom",
+          "type": "Adventure",
+          "release": "May 12, 2023",
+          "price": 69.99,
+          "total": 1
+        },
+        {
+          "title": "Metroid Prime™ Remastered",
+          "type": "Adventure",
+          "release": "February 8, 2023",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 109.97999999999999,
+      "id": 5
+    },
+    {
+      "Time": "2023-09-09 18:25:55.646009",
+      "userId": 1,
+      "game": [
+        {
+          "title": "The Legend of Zelda™: Tears of the Kingdom",
+          "type": "Adventure",
+          "release": "May 12, 2023",
+          "price": 69.99,
+          "total": 1
+        }
+      ],
+      "total": 69.99,
+      "id": 6
+    },
+    {
+      "Time": "2023-09-09 18:32:09.055806",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Monster Hunter Stories 2: Wings of Ruin",
+          "type": "Adventure",
+          "release": "July 9, 2021",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 39.99,
+      "id": 7
+    },
+    {
+      "Time": "2023-09-09 18:34:00.169555",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Monster Hunter Stories 2: Wings of Ruin",
+          "type": "Adventure",
+          "release": "July 9, 2021",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 39.99,
+      "id": 8
+    },
+    {
+      "Time": "2023-09-09 18:35:12.583556",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Metroid Prime™ Remastered",
+          "type": "Adventure",
+          "release": "February 8, 2023",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 39.99,
+      "id": 9
+    },
+    {
+      "Time": "2023-09-09 18:38:54.749497",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Metroid Prime™ Remastered",
+          "type": "Adventure",
+          "release": "February 8, 2023",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 39.99,
+      "id": 10
+    },
+    {
+      "Time": "2023-09-09 18:40:16.455147",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Metroid Prime™ Remastered",
+          "type": "Adventure",
+          "release": "February 8, 2023",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 39.99,
+      "id": 11
+    },
+    {
+      "Time": "2023-09-09 18:40:52.745486",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Metroid Prime™ Remastered",
+          "type": "Adventure",
+          "release": "February 8, 2023",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 39.99,
+      "id": 12
+    },
+    {
+      "Time": "2023-09-09 18:41:36.692958",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Metroid Prime™ Remastered",
+          "type": "Adventure",
+          "release": "February 8, 2023",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 39.99,
+      "id": 13
+    },
+    {
+      "Time": "2023-09-09 18:44:33.105580",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Monster Hunter Stories 2: Wings of Ruin",
+          "type": "Adventure",
+          "release": "July 9, 2021",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 39.99,
+      "id": 14
+    },
+    {
+      "Time": "2023-09-09 18:45:08.275329",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Metroid Prime™ Remastered",
+          "type": "Adventure",
+          "release": "February 8, 2023",
+          "price": 39.99,
+          "total": 1
+        }
+      ],
+      "total": 39.99,
+      "id": 15
+    },
+    {
+      "Time": "2023-09-09 18:46:03.301882",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Pokémon™ Scarlet",
+          "type": "Adventure",
+          "release": "November 18, 2022",
+          "price": 59.99,
+          "total": 1
+        }
+      ],
+      "total": 59.99,
+      "id": 16
+    },
+    {
+      "Time": "2023-09-09 18:46:38.890337",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Super Smash Bros.™ Ultimate",
+          "type": "Fighting",
+          "release": "December 7, 2018",
+          "price": 59.99,
+          "total": 1
+        }
+      ],
+      "total": 59.99,
+      "id": 17
+    },
+    {
+      "Time": "2023-09-09 18:47:38.417983",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Phoenix Wright: Ace Attorney Trilogy",
+          "type": "Simulation",
+          "release": "April 9, 2019",
+          "price": 29.99,
+          "total": 1
+        }
+      ],
+      "total": 29.99,
+      "id": 18
+    },
+    {
+      "Time": "2023-09-09 18:51:49.940455",
+      "userId": 3,
+      "game": [
+        {
+          "title": "AnimalCrossing",
+          "type": "Simulation",
+          "release": "March 20, 2020",
+          "price": 59.99,
+          "total": 1
+        }
+      ],
+      "total": 59.99,
+      "id": 19
+    },
+    {
+      "Time": "2023-09-09 18:52:05.929649",
+      "userId": 3,
+      "game": [
+        {
+          "title": "Pokémon™ Scarlet",
+          "type": "Adventure",
+          "release": "November 18, 2022",
+          "price": 59.99,
+          "total": 5
+        },
+        {
+          "title": "Monster Hunter Stories 2: Wings of Ruin",
+          "type": "Adventure",
+          "release": "July 9, 2021",
+          "price": 39.99,
+          "total": 2
+        },
+        {
+          "title": "EA SPORTS FIFA 23 Nintendo Switch™ Legacy Edition",
+          "type": "Sports",
+          "release": "September 30, 2022",
+          "price": 39.99,
+          "total": 2
+        }
+      ],
+      "total": 459.91,
+      "id": 20
+    },
+    {
+      "Time": "2023-09-09 18:52:34.982849",
+      "userId": 3,
+      "game": [
+        {
+          "title": "Pokémon™ Scarlet",
+          "type": "Adventure",
+          "release": "November 18, 2022",
+          "price": 59.99,
+          "total": 7
+        }
+      ],
+      "total": 419.93,
+      "id": 21
+    },
+    {
+      "Time": "2023-09-09 19:19:15.662922",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Hyrule Warriors: Age of Calamity",
+          "type": "Fighting",
+          "release": "November 20, 2020",
+          "price": 59.99,
+          "total": 1
+        },
+        {
+          "title": "Hyrule Warriors: Age of Calamity",
+          "type": "Fighting",
+          "release": "November 20, 2020",
+          "price": 59.99,
+          "total": 1
+        }
+      ],
+      "total": 119.98,
+      "id": 22
+    },
+    {
+      "Time": "2023-09-09 19:19:35.160638",
+      "userId": 1,
+      "game": [
+        {
+          "title": "Monster Hunter Stories 2: Wings of Ruin",
+          "type": "Adventure",
+          "release": "July 9, 2021",
+          "price": 39.99,
+          "total": 5
+        },
+        {
+          "title": "Splatoon™ 3",
+          "type": "Multiplayer",
+          "release": "September 9, 2022",
+          "price": 59.99,
+          "total": 1
+        },
+        {
+          "title": "Mario Party™ Superstars",
+          "type": "Multiplayer",
+          "release": "October 29, 2021",
+          "price": 59.99,
+          "total": 1
+        }
+      ],
+      "total": 319.93,
+      "id": 23
+    },
+    {
+      "Time": "2023-09-10 10:46:37.267912",
+      "userId": 1,
+      "game": [
+        {
+          "title": "EA SPORTS FIFA 23 Nintendo Switch™ Legacy Edition",
+          "type": "Sports",
+          "release": "September 30, 2022",
+          "price": 39.99,
+          "total": 11
+        },
+        {
+          "title": "Mario Strikers™: Battle League",
+          "type": "Sports",
+          "release": "June 10, 2022",
+          "price": 59.99,
+          "total": 4
+        },
+        {
+          "title": "DARK SOULS™: REMASTERED",
+          "type": "Multiplayer",
+          "release": "October 19, 2018",
+          "price": 39.99,
+          "total": 8
+        },
+        {
+          "title": "Nintendo Switch™ Sports",
+          "type": "Sports",
+          "release": "April 29, 2022",
+          "price": 39.99,
+          "total": 3
+        }
+      ],
+      "total": 1119.74,
+      "id": 24
+    },
+    {
+      "Time": "2023-09-24 14:56:59.154980",
+      "userId": 1,
+      "game": [
+        {
+          "title": "DRAGON QUEST BUILDERS™ 2",
+          "type": "Role-Playing",
+          "release": "July 12, 2019",
+          "price": 49.99,
+          "total": 7
+        },
+        {
+          "title": "Fire Emblem™ Engage",
+          "type": "Role-Playing",
+          "release": "January 20, 2023",
+          "price": 59.99,
+          "total": 9
+        },
+        {
+          "title": "Mario Strikers™: Battle League",
+          "type": "Sports",
+          "release": "June 10, 2022",
+          "price": 59.99,
+          "total": 1
+        },
+        {
+          "title": "Fitness Boxing 2: Rhythm & Exercise",
+          "type": "Sports",
+          "release": "December 4, 2020",
+          "price": 49.99,
+          "total": 1
+        },
+        {
+          "title": "Mario Golf™: Super Rush",
+          "type": "Sports",
+          "release": "June 25, 2021",
+          "price": 59.99,
+          "total": 1
+        }
+      ],
+      "total": 1059.81,
+      "id": 25
+    },
+    {
+      "Time": "2023-09-24 14:59:44.797459",
+      "userId": 3,
+      "game": [
+        {
+          "title": "The Legend of Zelda™: Tears of the Kingdom",
+          "type": "Adventure",
+          "release": "May 12, 2023",
+          "price": 69.99,
+          "total": 4
+        },
+        {
+          "title": "Metroid Prime™ Remastered",
+          "type": "Adventure",
+          "release": "February 8, 2023",
+          "price": 39.99,
+          "total": 4
+        },
+        {
+          "title": "Mario Strikers™: Battle League",
+          "type": "Sports",
+          "release": "June 10, 2022",
+          "price": 59.99,
+          "total": 3
+        }
+      ],
+      "total": 619.89,
+      "id": 26
+    },
+    {
+      "Time": "2023-09-24 15:05:57.209768",
+      "userId": 3,
+      "game": [
+        {
+          "title": "Mario Kart™ 8 Deluxe",
+          "type": "Multiplayer",
+          "release": "April 28, 2017",
+          "price": 59.99,
+          "total": 3
+        },
+        {
+          "title": "DARK SOULS™: REMASTERED",
+          "type": "Multiplayer",
+          "release": "October 19, 2018",
+          "price": 39.99,
+          "total": 2
+        },
+        {
+          "title": "Pokémon™ Scarlet",
+          "type": "Adventure",
+          "release": "November 18, 2022",
+          "price": 59.99,
+          "total": 2
+        }
+      ],
+      "total": 379.93,
+      "id": 27
+    }
+  ]
+}
